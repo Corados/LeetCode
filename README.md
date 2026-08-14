@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Corados/LeetCode/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/Corados/LeetCode/tree/master/0018-4sum) |
 ## Two Pointers
 |  |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Corados/LeetCode/tree/master/0018-4sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Corados/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
